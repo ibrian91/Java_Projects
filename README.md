@@ -1,6 +1,6 @@
 # Java_Projects
 
-Las carpetas contienen distintos projectos que fueron realizados durante la cursada en ORT y corresponden a modelos de examen finales, 2dos parciales o recuperatorios.
+Las carpetas contienen distintos projectos que fueron realizados durante la cursada en ORT y corresponden a modelos de examen finales.
 
 Representan desafios de logica.
 
